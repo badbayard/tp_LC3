@@ -1,0 +1,14 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	DECHIFFRE         3005
+//	CLE               3006
+//	MSG               3007
+//	$               3000
+//	$               3001
+//	$               3002
+//	$               3003
+//	$               3004
+//	$               3005
+
